@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-yihan522",
+  "version": "1.0.0",
+  "description": "我的第一个 AI 开发的网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "yihan522",
+  "license": "MIT",
+  "dependencies": {}
+}
